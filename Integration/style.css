@@ -1,0 +1,20 @@
+.hover-effect:hover{
+    
+    opacity: 0.7;  
+}
+.hover-effect:active{
+    filter:grayscale(1);
+}
+.hover-effect
+{
+    border-radius: 3px;
+}
+
+
+
+body{
+    
+        background-image: linear-gradient(to bottom right,#FBFDFF, #F4FAFF);
+      background-attachment: fixed;
+
+}
